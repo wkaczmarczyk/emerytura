@@ -5,12 +5,12 @@ proste ćwiczenie
 
 ### emerytua3
 
-*12345678
-*1234567
-*8763456
+* 12345678
+* 1234567
+* 8763456
 
-1.3456789
-2.876533
+1. 3456789
+2. 876533
 [Strona WSEI (www.wsei.pl)]
 
 A oto definicja klasy `public class Trójkat` opisującą problem
@@ -18,6 +18,6 @@ A oto definicja klasy `public class Trójkat` opisującą problem
 ```csharp
 if(x<0)
   x=1;
-  else
+else
   x=2;
 ```
