@@ -11,6 +11,7 @@ proste ćwiczenie
 
 1. 3456789
 2. 876533
+
 [Strona WSEI (www.wsei.pl)]
 
 A oto definicja klasy `public class Trójkat` opisującą problem
